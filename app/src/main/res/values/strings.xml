@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kwon_Guo</string>
+
+    <string-array name="continents">
+        <item>Africa</item>
+        <item>America</item>
+        <item>Asia</item>
+        <item>Australia(Oceania)</item>
+        <item>Europe</item>
+    </string-array>
+</resources>
